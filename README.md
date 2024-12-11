@@ -16,4 +16,4 @@ Utilizei as ferramentas citadas acima para a criação de cada etapa do resultad
 No final, o resultado foi um texto bem compreensível, um bom áudio, mas a criação do vídeo utilizando a imagem gerada pela IA deixou a desejar no aspecto de naturalidade. 
 
 ## 💭 Reflexão (Opcional)
-No final, o resultado foi perceptívelmente Fake e nada Natural!!!
+No final, o resultado foi perceptívelmente Fake, e não Natural!
