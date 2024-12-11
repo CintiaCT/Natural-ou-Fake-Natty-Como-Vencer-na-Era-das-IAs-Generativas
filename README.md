@@ -1,19 +1,22 @@
 # Natural ou Fake Natty - Como Vencer na Era das IAs Generativas
 
 
-# Tarefa Bootcamp DIO - Caixa Extremamente Aesthetic ;)
+# Tarefa Bootcamp DIO - Caixa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de vídeo contendo 01:05 sobre como a Inteligência Artificial pode auxiliar na melhora dos processos e atendimento no setor bancário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para criação do roteiro;
+IA Generativa BING para criação do avatar;
+IA Generativa ElevenLabs para criação do áudio;
+IA Generativa D-ID para criação do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei as ferramentas citadas acima para a criação de cada etapa do resultado (vídeo) apresentado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No final, o resultado foi um texto bem compreensível, um bom áudio, mas a criação do vídeo utilizando a imagem gerada pela IA deixou a desejar no aspecto de naturalidade. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.****
+No final, o resultado foi perceptívelmente Fake e nada Natural!!!
