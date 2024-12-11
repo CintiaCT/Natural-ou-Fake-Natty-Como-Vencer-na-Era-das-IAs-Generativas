@@ -7,10 +7,7 @@
 Criação de vídeo contendo 01:05 sobre como a Inteligência Artificial pode auxiliar na melhora dos processos e atendimento no setor bancário.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para criação do roteiro;
-IA Generativa BING para criação do avatar;
-IA Generativa ElevenLabs para criação do áudio;
-IA Generativa D-ID para criação do vídeo.
+IA Generativa ChatGPT para criação do roteiro, IA Generativa BING para criação do avatar, IA Generativa ElevenLabs para criação do áudio e IA Generativa D-ID para criação do vídeo.
 
 ## 🧐 Processo de Criação
 Utilizei as ferramentas citadas acima para a criação de cada etapa do resultado (vídeo) apresentado.
